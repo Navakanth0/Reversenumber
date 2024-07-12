@@ -3,7 +3,7 @@ class Reversenumber
 {
 public static void main(string args[])
 {
-int n=Integer.parseInt(args[])
+int n=Integer.parseInt(args[0]);
 int rev=0;
 int r;
 while(n>0)
